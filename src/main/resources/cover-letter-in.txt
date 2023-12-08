@@ -1,0 +1,26 @@
+[Your Full Name]
+[Your Address]
+[City, Country]
+[Your Email Address]
+[Your Phone Number]
+[Today's Date]
+
+Dear sir / madam,
+
+I am writing to express my interest in the [Job Title] position at [Company Name], as advertised on [where you found the job posting]. With a strong academic background, coupled with extensive practical experience, I am confident in my ability to contribute effectively to your team.
+
+In my six years of academic and two years of professional experience, I have honed my skills as a versatile and passionate developer. Proficient in various programming languages such as Java, Python, and C++, I have successfully applied my knowledge to develop and maintain real-time payment projects at Endava and upgrade military software solutions at Thales.
+
+Throughout my career, I have demonstrated a commitment to excellence, evident in my academic achievements, where I graduated with a remarkable 9.33/10 in my bachelor's degree and a perfect 10/10 in my master's degree. My hands-on experience has further solidified my understanding of programming languages, frameworks, and development tools, including but not limited to Spring Framework, Docker, Angular, React.js, and Jenkins.
+
+I thrive in collaborative environments and am known for my team-oriented approach, proactive mindset, and critical thinking skills. I am comfortable navigating through ambiguity and find joy in problem-solving. My commitment to continuous learning is reflected in my enthusiasm for creating and acquiring new skills, ensuring that I stay at the forefront of industry developments.
+
+In my recent role at Thales, I played a pivotal role in upgrading over 150 projects for a military software solution. This involved transitioning from Java 8 to Java 11, integrating with OSGi, and implementing scripts to automate processes. Additionally, I am well-versed in best practices, such as code styling, SOLID principles, and the development of unit tests.
+
+I am excited about the opportunity to bring my technical expertise, problem-solving skills, and dedication to quality to [Company Name]. I am confident that my background aligns seamlessly with the requirements of the [Job Title] position, and I look forward to contributing to the continued success of your team.
+
+Thank you for considering my application. I am eager to further discuss how my skills and experiences make me a strong fit for your team.
+
+Sincerely,
+
+[Your Full Name]
